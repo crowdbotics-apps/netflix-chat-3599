@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT netflix_chat_3599.wsgi:application
